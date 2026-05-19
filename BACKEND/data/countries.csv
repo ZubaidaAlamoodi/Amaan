@@ -1,0 +1,40 @@
+name,visa,insurance,risk,medical,safety,disaster,description
+UAE,Visa Required,Highly Recommended,Medium,5,6,2,Modern country with strong infrastructure and moderate travel risks
+Saudi Arabia,Visa Required,Highly Recommended,Medium,5,5,3,Growing tourism with moderate safety considerations
+Qatar,Visa Required,Recommended,Low,3,4,1,Very safe country with high-quality healthcare
+Kuwait,Visa Required,Recommended,Low,3,4,1,Stable country with low travel risk
+Oman,Visa Required,Recommended,Low,3,4,2,Peaceful destination with low risks
+Bahrain,Visa Required,Recommended,Low,3,4,1,Safe and small country with modern facilities
+USA,Visa Required,Recommended,High,7,6,5,Large country with varying regional risks
+Canada,No Visa Required,Recommended,Low,3,3,2,Very safe with excellent healthcare system
+UK,Visa Required,Recommended,Low,4,5,2,Stable country with good services
+Germany,No Visa Required,Recommended,Low,3,4,2,Highly developed and safe country
+France,No Visa Required,Recommended,Low,3,4,2,Popular tourist destination with low risk
+Italy,No Visa Required,Recommended,Low,3,4,2,Generally safe with strong tourism infrastructure
+Spain,No Visa Required,Recommended,Low,3,4,2,Safe and tourist-friendly environment
+Netherlands,No Visa Required,Recommended,Low,2,3,1,Very safe with excellent infrastructure
+Switzerland,No Visa Required,Recommended,Low,2,2,1,Extremely safe with top healthcare
+Turkey,Visa Required,Recommended,Medium,5,5,4,Moderate risks depending on region
+Egypt,Visa Required,Recommended,Medium,6,6,5,Historical destination with some safety concerns
+Morocco,Visa Required,Recommended,Medium,5,5,3,Moderate risk tourist destination
+South Africa,Visa Required,Highly Recommended,High,7,7,4,Higher crime risk in some areas
+Nigeria,Visa Required,Highly Recommended,High,8,8,6,High travel risk with security concerns
+India,Visa Required,Recommended,Medium,6,5,4,Diverse country with moderate travel risks
+Pakistan,Visa Required,Highly Recommended,High,7,7,6,Higher safety concerns in certain regions
+China,Visa Required,Recommended,Medium,5,5,3,Moderate travel restrictions and risks
+Japan,No Visa Required,Recommended,Low,2,2,3,Very safe with excellent healthcare
+South Korea,No Visa Required,Recommended,Low,2,3,2,Safe and technologically advanced country
+Thailand,No Visa Required,Recommended,Low,4,4,3,Popular tourist destination with manageable risks
+Indonesia,No Visa Required,Recommended,Medium,5,5,5,Beautiful but natural disaster risk exists
+Malaysia,No Visa Required,Recommended,Low,3,4,3,Safe and tourist-friendly
+Singapore,No Visa Required,Recommended,Low,1,1,1,One of the safest countries globally
+Australia,No Visa Required,Recommended,Low,3,3,2,Safe with strong healthcare system
+New Zealand,No Visa Required,Recommended,Low,2,2,2,Very safe and peaceful country
+Brazil,Visa Required,Recommended,Medium,6,6,5,Safety varies by region
+Argentina,Visa Required,Recommended,Medium,5,5,4,Moderate travel risks
+Mexico,Visa Required,Recommended,Medium,6,6,4,Caution advised in certain regions
+Chile,No Visa Required,Recommended,Low,3,3,3,Generally safe with minor risks
+Peru,Visa Required,Recommended,Medium,5,5,4,Tourist destination with moderate risks
+Ecuador,No Visa Required,Recommended,Low,3,3,4,Safe destination with low travel risk
+Russia,Visa Required,Recommended,High,7,6,5,Travel restrictions and safety concerns
+Ukraine,Visa Required,Highly Recommended,High,9,9,8,Conflict zone with high travel risk
